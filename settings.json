@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "proplayergg",
+    "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
@@ -24,16 +24,16 @@
     },
     "anti-afk": {
       "enabled": true,
-      "sneak": false
+      "sneak": true
     },
     "chat-messages": {
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "mera naam suresh muthmare",
-        "merse panga mat lena",
-        "Vivan mera beta hai"
+        "I'm a regular player",
+        "Subscribe to Slobos!",
+        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
@@ -47,14 +47,14 @@
     }
   },
   "movement": {
-    "enabled": false,
+    "enabled": true,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
       "speed": 3000
     },
     "look-around": {
-      "enabled": false,
+      "enabled": true,
       "interval": 5000
     },
     "random-jump": {
@@ -70,7 +70,7 @@
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": false,
+    "attack-mobs": true,
     "auto-eat": true
   },
   "beds": {

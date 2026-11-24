@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "imbouttocum",
     "password": "",
     "type": "offline"
   },
@@ -24,22 +24,22 @@
     },
     "anti-afk": {
       "enabled": true,
-      "sneak": true
+      "sneak": false
     },
     "chat-messages": {
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "mera naam suresh muthmare",
+        "merse panga mat lena warna maar      lunga tumhari",
+        "Ryo mera papa hai aur vivan mera  beta"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000,
+    "auto-reconnect-delay": 10,
+    "max-reconnect-delay": 10,
     "periodic-rejoin": {
       "enabled": false,
       "min-interval": 20,
@@ -70,7 +70,7 @@
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": true,
+    "attack-mobs": false,
     "auto-eat": true
   },
   "beds": {

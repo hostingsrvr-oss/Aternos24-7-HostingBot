@@ -8,7 +8,7 @@
   "server": {
     "ip": "MinecraftOGzSMP.aternos.me",
     "port": 20316,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {

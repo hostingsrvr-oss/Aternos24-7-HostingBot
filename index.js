@@ -461,7 +461,8 @@ function createBot() {
       port: config.server.port,
       version: botVersion,
       hideErrors: false,
-      checkTimeoutInterval: 600000
+      checkTimeoutInterval: 600000,
+      physicsEnabled: false
     });
 
     bot.loadPlugin(pathfinder);

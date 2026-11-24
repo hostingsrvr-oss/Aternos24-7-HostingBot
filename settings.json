@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Main cute sa noob hu :)",
+        "Love you my friends :D"
       ]
     },
     "chat-log": true,
@@ -47,14 +47,14 @@
     }
   },
   "movement": {
-    "enabled": true,
+    "enabled": false
     "circle-walk": {
-      "enabled": true,
+      "enabled": false,
       "radius": 4,
       "speed": 3000
     },
     "look-around": {
-      "enabled": true,
+      "enabled": false,
       "interval": 5000
     },
     "random-jump": {

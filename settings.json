@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "mera naam suresh muthmare",
-        "merse panga mat lena warna maar      lunga tumhari",
-        "Ryo mera papa hai aur vivan mera  beta"
+        "merse panga mat lena",
+        "Vivan mera beta hai"
       ]
     },
     "chat-log": true,
@@ -54,7 +54,7 @@
       "speed": 3000
     },
     "look-around": {
-      "enabled": true,
+      "enabled": false,
       "interval": 5000
     },
     "random-jump": {

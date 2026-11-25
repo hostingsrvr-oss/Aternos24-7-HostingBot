@@ -47,14 +47,14 @@
     }
   },
   "movement": {
-    "enabled": false,
+    "enabled": true,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
       "speed": 3000
     },
     "look-around": {
-      "enabled": false,
+      "enabled": true,
       "interval": 5000
     },
     "random-jump": {
